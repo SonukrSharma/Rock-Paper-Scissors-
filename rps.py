@@ -1,4 +1,3 @@
-from tkinter import *
 from random import *
 
 print("Welcome to the Rock Paper Scissors game")
