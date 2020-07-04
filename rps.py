@@ -1,4 +1,5 @@
 from random import *
+#Just basic programme 
 
 print("Welcome to the Rock Paper Scissors game")
 p = input("Enter your Name: ")
