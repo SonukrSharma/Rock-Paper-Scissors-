@@ -1,5 +1,5 @@
 from random import *
-#Just basic programme 
+#Just basic programme { no gui:( }
 
 print("Welcome to the Rock Paper Scissors game")
 p = input("Enter your Name: ")
