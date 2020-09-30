@@ -34,6 +34,8 @@ while game:
     else:
         print(c + " choose Scissors .")
 
+#satyajit was here
+
     if ch == u:
         print("Its a draw!!!")
     elif (ch == 1 and u == 3) or (ch == 2 and u == 1) or (ch == 3 and u == 2):
