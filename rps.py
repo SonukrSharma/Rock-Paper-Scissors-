@@ -35,6 +35,7 @@ while game:
         print(c + " choose Scissors .")
 
 #satyajit was here
+#hello
 
     if ch == u:
         print("Its a draw!!!")
